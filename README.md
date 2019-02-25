@@ -1,2 +1,2 @@
-# NLP - NLTK Book
+# NLP
 All that i have learned of NLP
